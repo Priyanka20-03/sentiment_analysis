@@ -1,0 +1,3 @@
+Database Name: imdb_reviews.db
+
+Instructions for SqLite is given in data_setup.ipynb file.

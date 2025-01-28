@@ -1,0 +1,10 @@
+List of all Python dependencies are:
+
+flask==2.3.2
+requests==2.31.0
+scikit-learn==1.2.2
+pandas==2.0.3
+datasets==2.14.0
+matplotlib==3.7.2
+wordcloud==1.9.2
+sqlite3-binary==0.1.0
